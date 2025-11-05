@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-todo-app/static/css/main.b41df8e8.css",
-    "main.js": "/react-todo-app/static/js/main.2c94fcba.js",
-    "static/js/453.f8d52016.chunk.js": "/react-todo-app/static/js/453.f8d52016.chunk.js",
-    "index.html": "/react-todo-app/index.html",
-    "main.b41df8e8.css.map": "/react-todo-app/static/css/main.b41df8e8.css.map",
-    "main.2c94fcba.js.map": "/react-todo-app/static/js/main.2c94fcba.js.map",
-    "453.f8d52016.chunk.js.map": "/react-todo-app/static/js/453.f8d52016.chunk.js.map"
+    "main.css": "/anjalikaspoju-tech/react-todo-app/static/css/main.b41df8e8.css",
+    "main.js": "/anjalikaspoju-tech/react-todo-app/static/js/main.347edbae.js",
+    "static/js/453.f8d52016.chunk.js": "/anjalikaspoju-tech/react-todo-app/static/js/453.f8d52016.chunk.js",
+    "index.html": "/anjalikaspoju-tech/react-todo-app/index.html",
+    "main.b41df8e8.css.map": "/anjalikaspoju-tech/react-todo-app/static/css/main.b41df8e8.css.map",
+    "main.347edbae.js.map": "/anjalikaspoju-tech/react-todo-app/static/js/main.347edbae.js.map",
+    "453.f8d52016.chunk.js.map": "/anjalikaspoju-tech/react-todo-app/static/js/453.f8d52016.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b41df8e8.css",
-    "static/js/main.2c94fcba.js"
+    "static/js/main.347edbae.js"
   ]
 }
